@@ -4,7 +4,7 @@ A graduate student in computer science and technology
 ### 😄 About Me:
 * I'm studying on **Computer Science** 🔭
 * I'm working for **XMU PZC LAB** ✨
-* I'm currently learning on **Spring-Boot, Flask, VUE** 📊
+* I'm currently learning on **Spring-Boot** 📊
 * I'm good at **Java, python, C++** 👯
 * My website here [AvlTree's Blog](https://blog.avltree.cn) 📫
 
