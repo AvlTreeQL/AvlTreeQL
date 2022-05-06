@@ -5,7 +5,7 @@ A graduate student in computer science and technology
 * I'm studying on **Computer Science** 🔭
 * I'm working for **XMU PZC LAB** ✨
 * I'm currently learning on **Spring-Boot** 📊
-* I'm good at **Java, python, C++** 👯
+* I'm good at **Go, C++, Python** 👯
 * My website here [AvlTree's Blog](https://blog.avltree.cn) 📫
 
 ### 💬 My Motto:
